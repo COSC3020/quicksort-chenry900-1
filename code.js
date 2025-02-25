@@ -1,5 +1,5 @@
 function quicksort(array) {
-        var stack = [];
+    var stack = [];
 
     if(array.length == 0)
         return array;
